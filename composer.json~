@@ -1,0 +1,14 @@
+{
+    "name": "nithy/hello-world",
+    "authors": [
+        {
+            "name": "nithy"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
